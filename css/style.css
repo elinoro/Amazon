@@ -99,6 +99,13 @@ body{
   width: 20px;
 }
 
+.cartCount{
+  color: orange;
+  font-weight: bold;
+  position: absolute;
+  top: 10px;
+  right: 76.5px;
+}
 .cart img{
   width: 70px;
   height: 35px;
